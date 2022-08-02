@@ -13,3 +13,6 @@ Dataset Source: [Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-ke
 - Best model (Logistic Regression) achieved an accuracy of 83%. Scoring metrics were based on precision, recall, accuracy, f-1 score, ROC and AUC.
 - With the help of GridSearchCV the accuracy was increased to 83.42% for the Logistic Regression model.
 - Libraries used: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+![]([https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/ad%20click%20images/Ad%20click%20predictions.png](https://github.com/SatyamedhasP/Satyamedhas-Portfolio/blob/main/Data%20Science%20Projects/Heart%20Disease%20Prediction/Images/Model%20comparison%20Skin%20Cancer.png))
+
+![]([https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/ad%20click%20images/Ad%20click%20predictions.png](https://github.com/SatyamedhasP/Satyamedhas-Portfolio/blob/main/Data%20Science%20Projects/Heart%20Disease%20Prediction/Images/Model%20comparison%20Skin%20Cancer.png))
